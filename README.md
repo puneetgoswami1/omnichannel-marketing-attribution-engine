@@ -20,7 +20,7 @@ Relying solely on last-touch conversion data systematically undervalues upper-fu
 
 ```bash
 # Clone the repository
-git clone [https://github.com/puneetgoswami1/omnichannel-marketing-attribution-engine.git](https://github.com/puneetgoswami1/omnichannel-marketing-attribution-engine.git)
+git clone https://github.com/puneetgoswami1/omnichannel-marketing-attribution-engine.git
 cd omnichannel-marketing-attribution-engine
 
 # Install dependencies
